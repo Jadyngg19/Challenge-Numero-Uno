@@ -8,4 +8,4 @@ This project is my first coding homework assignment and it was assigned to me in
 ![Screenshot of the bottom half of the webage](./Develop/assets/images/Challenge-One-Webpage-Screenshot-2.png)
 
 ## Link
-
+[Link to my deployed gh-pages website](https://jadyngg19.github.io/Challenge-Numero-Uno/)
